@@ -1,7 +1,7 @@
 //addmin Keys
-export const adminEmail = 'yvanopara4000@gmail.com';
-export const adminPassword = '00000000';
+export const adminEmail = 'digital.wealth.impact@gmail.com';
+export const adminPassword = 'Teambs25@';
 
 //UserKeys
-export const userEmail = 'yvanlandry4000@gmail.com';
-export const userPassword = '00000000';
+export const userEmail = 'digital.wealth.impact@gmail.com';
+export const userPassword = 'Teambs25@';

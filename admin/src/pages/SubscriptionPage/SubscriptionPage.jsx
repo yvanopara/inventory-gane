@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import "./SubscriptionPage.css"; // Import du CSS
 
 // Définition manuelle de la date d'expiration
-const EXPIRATION_DATE = new Date("2050-04-01"); // AAAA-MM-JJ
+const EXPIRATION_DATE = new Date("2026-04-01"); // AAAA-MM-JJ
 
 const SubscriptionPage = ({ children }) => {
   const [showNotification, setShowNotification] = useState(true);
