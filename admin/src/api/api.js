@@ -3,7 +3,7 @@ import axios from "axios";
 // ✅ Définir l'adresse du backend ici 
 //    export const backendUrl = "http://localhost:5000"; 
 
-   export const backendUrl = "https://backend-gt66.onrender.com";
+   export const backendUrl = "https://backend-uxvk.onrender.com";
 export const api = axios.create({
   baseURL: backendUrl, // Utilisation de backendUrl
 });
